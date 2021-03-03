@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "streambuf": "cpp"
+    }
+}

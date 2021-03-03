@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "vector": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/LAB_4",
+    "cmake.configureOnOpen": false
+}
